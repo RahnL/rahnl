@@ -32,10 +32,7 @@ github_username:  rahnl
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-archives
-  - jekyll-sitemap
-  - jekyll-compose
-  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
