@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Inaugural Wednesday Avdenture Club"
+title:  "The Inaugural Wednesday Adventure Club"
 date:   2021-01-06 07:30:27 -0500
 categories: DnD Wednesday Kids
 ---
