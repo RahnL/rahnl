@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Rahn, and this has been my little place on the web since around 2008.
+If you're looking for some of the old content (pre-2020), it's been archived. It may be revived over time, but the focus is on new content now.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+As a youth, I spent a bit of time playing table top role playing games (RPG), such as Dungeons and Dragons.  Recently, I've been working on getting my kids involved with this type of gaming.  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+++Why Role Play?
+it's fun.
+learn life skills
+learn how to deal with people in different expectations
+Improv
