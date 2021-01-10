@@ -2,8 +2,8 @@
 name: "Gone Somewhere"
 title: "Gone Somewhere"
 description: "A world of exploration, travel, food and adventure!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 #google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'gonesomewhere'
@@ -45,7 +45,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: none
+highlighter: rouee
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
