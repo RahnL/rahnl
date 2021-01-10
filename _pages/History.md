@@ -6,10 +6,8 @@ comments: false
 #image: assets/images/screenshot.jpg
 #imageshadow: true
 ---
-My name is Rahn, and I've been had this site since 2008.
-
 # Site History
-Way back when I started this site, I created it as a place to track local adventures and outings we did.  I was a big runner at the time, so most of the content had to do with races and group runs I did with the local running shop. (<a target="_blank" href="http://RunnersFit.com">Runners Fit</a> in Braselton, GA.)
+My name is Rahn. Way back around 2008, when I started this site, I created it as a place to track local adventures and outings we did.  I was a big runner at the time, so most of the content had to do with races and group runs I did with the local running shop. (<a target="_blank" href="http://RunnersFit.com">Runners Fit</a> in Braselton, GA.)
 
 Since then, I've stopped running and moved, so the site has changed direction.  It's still about adventures and trips, but now it's going to talk about role playing games and trips of the mental variety, with the occassion real world excursion thrown in. At least, when the real world allows that to start happening again.
 
