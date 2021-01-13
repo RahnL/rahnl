@@ -2,6 +2,7 @@
 layout: post
 title:  "Alice Is Missing"
 date:   2020-12-21 19:00:27 -0500
+author: rahn
 categories: RPG Game-Night
 ---
 As I'd been asking around parents of the kids friends whether their childen would be interested in playing some D&D, all the parents eagerly said something to the effect of "I dunno about the kid, but count me in!"  With that, I found myself looking for games and figuring out how to setup an online gaming session.  
