@@ -4,7 +4,7 @@ title:  "The Wizard Cave Adventure Continues"
 date:   2021-01-12 07:30:27 -0500
 author: rahn
 categories: DnD Wednesday Kids
-image: assets/images/characters/skeleton.jpg
+image: assets/images/characters/skeleton.png
 
 ---
 
@@ -18,4 +18,4 @@ Nothing was found in the cave except a bridge at the far end.  It leads off into
 
 Ulfgar shared that he has good night vision (since he's a dwarf), and could see the bridge goes about 50 feet.  At the end, he thinks he sees someone standing in brown robes....
 
-(Image from <a href="http://dungeonsmaster.com/2014/07/dd-encounters-dead-in-thay-week-8/">dungeonmaster.com</a>)
+(Skeleton image by Ulfgar!)
