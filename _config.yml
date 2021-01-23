@@ -2,8 +2,8 @@
 name: "Gone Somewhere"
 title: "Gone Somewhere"
 description: "Exploration and adventure!"
-logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/favicon.ico'
+logo: assets/images/logo.jpg
+favicon: assets/images/favicon.ico
 baseurl: ''
 #google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'gonesomewhere'
