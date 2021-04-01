@@ -45,3 +45,5 @@ Play of the week:  While fighting the wolf, Ulfgars first ever combat, first tim
 A decent section of the begining of the sessions was spent getting used to Roll20.  There's a bit of learning curve to get going, and more of one learning how to draw dungeons with my mousepad.
 
 Jimmy is played by one of the parents who is provided support for the group as they get comfortable with the game.
+
+This skeleton picture was drawn by Max (Ulfgar).

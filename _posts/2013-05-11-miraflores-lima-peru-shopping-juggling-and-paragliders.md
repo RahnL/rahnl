@@ -2,11 +2,11 @@
 layout: post
 title: Miraflores, Lima, Peru - Shopping, Juggling and Paragliders
 date: 2013-05-11 21:17
-author: Rahn
+author: rahn
 comments: true
 categories: Adventure, Real-World, Travel
 ---
-We were recently in Peru for a vacation, and stayed in the <a target="_blank"  href="http://en.wikipedia.org/wiki/Miraflores_District,_Lima">Miraflores</a> district of Lima for a couple of days. (We stayed at the <a target="_blank"  href="http://www.marriott.com/hotels/travel/limdt-jw-marriott-hotel-lima/">Marriott</a>, and really enjoyed the the location, the room and the friendly staff.)
+We were recently in Peru for a vacation [May 2013], and stayed in the <a target="_blank"  href="http://en.wikipedia.org/wiki/Miraflores_District,_Lima">Miraflores</a> district of Lima for a couple of days. (We stayed at the <a target="_blank"  href="http://www.marriott.com/hotels/travel/limdt-jw-marriott-hotel-lima/">Marriott</a>, and really enjoyed the the location, the room and the friendly staff.)
 
 While wandering through the mall (built into the side of a cliff!), I ran to the park above us to try to capture some pictures of the coastline. While up there,  I saw a group of young men juggling.  After watching from a distance for a while, I decided to ask if they minded if I took some pictures.  Manuel, the person I talked to happily agreed as long as he got copies.
 
@@ -36,3 +36,8 @@ This is the mall built into the cliff.
 
 A view across the water from Miraflores
 ![para-gliders](/assets/images/2013/View-from-coast-of-Miraflores-200x300.jpg)
+
+If you'd like to read more about our trip, see these other posts in the series:
+* [Miraflores](http://gonesomewhere.com/miraflores-lima-peru-shopping-juggling-and-paragliders) (This Page)
+* [Atavana Wasi Tocapo](http://gonesomewhere.com/peru-a-trip-to-the-cooperative-of-weavers-atawana-wasi-tocapo-co-op)
+* (Others being rebuit for this platform)
