@@ -4,7 +4,7 @@ title: Day with the boys, April 2015
 date: 2015-04-25 16:06
 author: Rahn
 comments: true
-categories: [Uncategorized]
+categories: [family life]
 ---
 A week or so ago, while Dianna headed out the door, she said "be sure to send me status updates on how it's going."  That whole evening, we had a good time, and every once in a while, Isaac (almost 6 now) or Max (just turned 4) would say to send mommy a new update. Using the fancy speech to text engine on my phone, we'd send a status text. Since the translation wasn't always perfect, it provided us of hours of fun for the night.
 
