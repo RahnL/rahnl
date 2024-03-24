@@ -1,0 +1,9 @@
+---
+layout: post
+title: New year, new challenges
+date: 2010-01-10 20:58
+author: Rahn
+comments: true
+categories: [The Home]
+---
+<p>Last week, on the spur of the moment (and goading by coworkers), I joined the office weight loss challenge.</p><p>5 dollars to enter, 2 months.  Winner gets a gift certificate to a restaurant in the amount equal to the pot.</p><p>Now, a restaurant doesn't make sense to me...because if I win, I'm gonna say give me a $100 in Krispy-Kreme dollars.  Definitely not good after trying to lose weight, so I've suggested that it would be better to give out the cash. I know a couple other people are thinking the same thing.</p><p>This should be fun.  And speaking of fun, here's my humorous story to go along with this;</p><p>Last Tuesday, a coworker came and asked if I'm doing ING. She wants to be motivated. So of course, I say "Yup. You gonna do it?". Yeah, she's thinking of the 1/2. That's cool...I'm doing the full. "Oh, did you start training?".  Uh, yeah...two days ago.  How far did you go?  23.5 mile, guess I'm about ready.  hehehe...cracked me up.</p><p>So, hopefully this challenge will help my training. Normally marathon training isn't good for weight loss, since I tend to eat everything in sight since I'm doing a lot of miles. I'd like to get a little speed in too. Breaking 5 hrs would be good.</p><p>I'm starting off pretty good.  Lot of lunges and squats while I play with the baby. Plus getting started with a bit more core work than I've been doing.   I know all of that will help the speed.</p><p>Oh, I may be offline for a day or two later this week.  Moving the domain to a new host, and sometimes it takes a day or two to refresh. (I doubt I'll post anything until after the move. I'd been trying to avoid it, but since it's takng longer to get going than I expected, decided to throw this up.)</p><p> </p>

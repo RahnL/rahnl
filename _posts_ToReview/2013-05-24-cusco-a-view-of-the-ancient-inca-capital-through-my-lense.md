@@ -1,0 +1,28 @@
+---
+layout: post
+title: Cusco, A View Of The Ancient Inca Capital Through My Lense
+date: 2013-05-24 21:39
+author: Rahn
+comments: true
+categories: [Cusco, Peru, Photography, The Adventures, travel]
+---
+There are many interesting places to visit in Peru, and while we didn't make it to all of them (not even close), we did spend three days in <a href="http://en.wikipedia.org/wiki/Cusco">Cusco</a>. There are so many awe-inspiring cultural and archaeological sites to visit in the Cusco region that we would have needed a lot more than 3 days to see them all. Some day, we will make it back and spend at least a week, if not more.
+
+For those that don't know, Cusco sits in the Andes, at an altitude of around 11,000 feet. To put this in perspective, that's just a few thousand feet shorter than Pikes Peak or Mt. Rainer.  It's a major tourist center, with millions of people visiting every year. Most visitors, including us, head to nearby <a href="http://en.wikipedia.org/wiki/Machu_Picchu">Machu Picchu</a> and other local Inca sites.
+
+Here are some of my favorite pictures of the city (click on the picture to see it bigger):
+<h4 style="text-align: center;">A bird's eye view of the city of Cusco, taken from <span style="text-decoration: underline;"><a href="http://en.wikipedia.org/wiki/Saksaywaman">Sacsayhuaman</a></span>, elevation 12,000 feet.<a title="A view of Cusco, Peru, May 2013 by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8773106281/"><img class="alignnone" style="margin: 5px;" alt="A few of Cusco, Peru, May 2013" src="http://farm6.staticflickr.com/5453/8773106281_3876bf213c.jpg" width="500" height="333" /></a></h4>
+<h4 style="text-align: center;">Another bird's-eye view of Cusco. It's the main square in the old part of town, with the old Cathedral on the left. <a title="A view of the main square in Cusco, Peru, May 2013 by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8779666474/"><img class="aligncenter" alt="A view of the main square in Cusco, Peru, May 2013" src="http://farm8.staticflickr.com/7406/8779666474_7e63cc3abf_n.jpg" width="320" height="213" /></a></h4>
+<h4 style="text-align: center;">A couple of pictures of the same square as above, taken after dinner (including courses of guinea pig and alpaca meat).
+<a title="Cusco at night (13) by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8779557918/"><img class="aligncenter" alt="Cusco at night (13)" src="http://farm9.staticflickr.com/8140/8779557918_5043747afe_n.jpg" width="320" height="213" /></a>
+<a title="Cusco at night (28) by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8772998695/"><img class="aligncenter" alt="Cusco at night (28)" src="http://farm6.staticflickr.com/5348/8772998695_2a8a3ca8c4_n.jpg" width="320" height="213" /></a></h4>
+<h4 style="text-align: center;">In Cusco, the Incan temple, Quirikancha, which was taken over by the Spaniards when they conquered the city. Inside, you can see a lot of the original Inca architecture, along with the best piece of <span style="text-decoration: underline;"><a href="http://en.wikipedia.org/wiki/Marcos_Zapata">artwork</a></span> we saw during our trip.</h4>
+<a title="IMG_3626 by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8773076927/"><img class="aligncenter" alt="IMG_3626" src="http://farm3.staticflickr.com/2840/8773076927_81d59146e2_n.jpg" width="320" height="213" /></a>
+<h4 style="text-align: center;">Throughout the city (and everywhere we went in the country, for that matter), there were peddlers hawking their wares. Some had stores, carried stuff with them, or pushed their carts and bikes down the old narrow streets.</h4>
+<a title="IMG_3481 by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8779593448/"><img class="aligncenter" alt="IMG_3481" src="http://farm8.staticflickr.com/7443/8779593448_bb0d3616e2_n.jpg" width="320" height="213" /></a>
+<a title="IMG_3467 by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8773026081/"><img class="aligncenter" alt="IMG_3467" src="http://farm9.staticflickr.com/8539/8773026081_08f59d2ccb_n.jpg" width="320" height="213" /></a>
+<a title="Laundry needs to be done everywhere by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8779586592/"><img class="aligncenter" alt="Laundry needs to be done everywhere" src="http://farm4.staticflickr.com/3812/8779586592_4bb8e07c5f_n.jpg" width="320" height="213" /></a>
+<h4 style="text-align: center;">Naturally, some things are found everywhere.</h4>
+<em id="__mceDel"> <a title="Cusco Starbucks by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8773004705/"><img class="aligncenter" alt="Cusco Starbucks" src="http://farm4.staticflickr.com/3751/8773004705_1ac7dcf8e2_n.jpg" width="320" height="213" /></a></em>
+<h4 style="text-align: center;">Here is one of my favorite pictures.  These two ladies were taking a break from selling whatever they had.  I think they were with a group around the corner letting people hold their baby llama's and taking pictures for a few soles.<a title="Taking a break (1) by BigRahn, on Flickr" href="http://www.flickr.com/photos/bigrahn/8809128845/"><img class="aligncenter" alt="Taking a break (1)" src="http://farm4.staticflickr.com/3735/8809128845_77918cab05_n.jpg" width="320" height="213" /></a></h4>
+These pictures are all stored over on <a href="http://www.flickr.com/photos/bigrahn/sets/72157633588943844/">Flickr</a>. You can see more picture from our trip in the Peru set <a href="http://www.flickr.com/photos/bigrahn/sets/72157633588943844/">there</a>. All of these pictures were shot either hand-held or sitting on whatever rock or bench that was nearby. However, I did have an image stabilizing lens.

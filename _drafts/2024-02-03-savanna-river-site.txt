@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Savanna River Site Museum"
+date:   2024-02-03 07:30:27 -0500
+categories: [BSA, The Adventures]
+author: rahn
+image: assets/images/ServingTheSquash.jpg
+---
+
+# The Adventure
+Travelled to the <a href='https://www.srsheritagemuseum.org/'>Savanna River Site museum</a>, in Aiken, SC, where we did the nuclear science merit badge
+
+
+# The Food
+The <a href='http://www.thepizzajoint.net/'>pizza joint</a> we went to was good. Would eat there again.
