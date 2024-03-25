@@ -14,12 +14,12 @@ As you can probably guess, the road to the top is around 3 miles long. And it's 
 
 At the top, there were a bunch of local high school kids screwing around and painting their name on the rock. Apparently, this is the right of passage tradition up here. From the pictures, you can get an idea of the height and the artistic ability of the local kids.
 
-<a href="../assets/images/2008/08/Ryan-Dustin-Brad-Duane-at-top+g.jpg"><img class="size-medium wp-image-859" title="Ryan Dustin Brad Duane at top" src="../assets/images/2008/08/Ryan-Dustin-Brad-Duane-at-top+g-300x200.jpg" alt="Ryan Dustin Brad Duane at top" width="300" height="200" /></a> 
+<a href="../assets/images/2008/08/Ryan-Dustin-Brad-Duane-at-top+g.jpg"><img title="Ryan Dustin Brad Duane at top" src="../assets/images/2008/08/Ryan-Dustin-Brad-Duane-at-top+g-300x200.jpg" alt="Ryan Dustin Brad Duane at top" width="300" height="200" /></a> 
 Part of our group at the top of the mountain
 
 &nbsp;
 
-<a href="../assets/images/2008/08/Brad-Dustin-Duane-Rahn-at-the-top.jpg"><img class="size-medium wp-image-862" title="Brad Dustin Duane Rahn at the top" src="../assets/images/2008/08/Brad-Dustin-Duane-Rahn-at-the-top-300x200.jpg" alt="Brad Dustin Duane Rahn at the top" width="300" height="200" /></a> Another view of some of us at the top
+<a href="../assets/images/2008/08/Brad-Dustin-Duane-Rahn-at-the-top.jpg"><img title="Brad Dustin Duane Rahn at the top" src="../assets/images/2008/08/Brad-Dustin-Duane-Rahn-at-the-top-300x200.jpg" alt="Brad Dustin Duane Rahn at the top" width="300" height="200" /></a> Another view of some of us at the top
 
 Although many profound things were said on this trip, the quote to remember came from Coach K: "It's bigger an I thought it would be." In the front seat of the car, we could only assume he was talking about the mountain you could see out the front window. Duane was too busy laughing to confirm this, and Brad in the back with him was staying suspiciously quiet.
 
@@ -27,5 +27,5 @@ This run was also a <a href="http://www.runforthefallen.org">Run for the Fallen
 
 At the base of the mountain, there is a small memorial for the regiments that trained here. I was going to give a speech and talk about the current war, read off the number of dead, and all that. But in the end, decided not to. We all have our personal thoughts on it, and that's enough. And hence, the quote from the song at the top.
 
-<a href="../assets/images/2008/08/The-gang-at-the-memorialg.jpg"><img class="size-medium wp-image-860" title="The gang at the memorial" src="../assets/images/2008/08/The-gang-at-the-memorial+g-300x251.jpg" alt="Picture of the group of us at the memorial at the bottom of the mountain" width="300" height="251" /></a> Our gang at the base of the mountain
+<a href="../assets/images/2008/08/The-gang-at-the-memorialg.jpg"><img title="The gang at the memorial" src="../assets/images/2008/08/The-gang-at-the-memorial+g-300x251.jpg" alt="Picture of the group of us at the memorial at the bottom of the mountain" width="300" height="251" /></a> Our gang at the base of the mountain
 

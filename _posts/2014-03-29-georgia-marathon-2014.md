@@ -4,7 +4,7 @@ title: Georgia Marathon 2014
 date: 2014-03-29 08:15
 author: Rahn
 comments: true
-categories: [2014, georgia, marathon, Race Report, Running, running]
+categories: [georgia, marathon, race report, running]
 ---
 Another year, another running of the Georgia marathon through the streets of Atlanta.
 

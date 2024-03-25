@@ -6,7 +6,9 @@ author: Rahn
 comments: true
 categories: [donuts, eating, food, food truck, The Adventures, travel]
 ---
-<a href="http://gonesomewhere.com/wp-content/uploads/2013/04/Charlies-Donut-Truck-Small.jpg"><img class="alignright size-medium wp-image-1379" alt="A picture of Charlies Donut Truck" src="http://gonesomewhere.com/wp-content/uploads/2013/04/Charlies-Donut-Truck-Small-300x223.jpg" width="300" height="223" /></a>Anyone who knows me knows that I love donuts.  Seriously, I really do...I've even tried making my own at home.  Heck, if I were to open a restaurant, I'd seriously be considering a donut shop.
+<a href="../assets/images/2013/04/Charlies-Donut-Truck-Small.jpg"><img alt="A picture of Charlies Donut Truck" src="../assets/images/2013/04/Charlies-Donut-Truck-Small-300x223.jpg" width="300" height="223" /></a>
+
+Anyone who knows me knows that I love donuts.  Seriously, I really do...I've even tried making my own at home.  Heck, if I were to open a restaurant, I'd seriously be considering a donut shop.
 
 When we were recently down in Florida, we happened upon <a href="http://30aeats.com/local/charlies-donut-truck-alys-beach-the-hole-truth/">Charlie's Donut Truck</a> off of 30A, in Alys Beach.  Thinking a donut truck seemed like a fun novelty, we stopped, got a couple and continued on our way.  They were so good, that we returned about an hour later, hoping they weren't sold out, just so we could get a dozen to take back with us.
 

@@ -4,7 +4,7 @@ title: Running around North Seattle
 date: 2004-05-29 08:32
 author: Rahn
 comments: true
-categories: [adventure, running, scavenger hunt, seattle, The Adventures]
+categories: [adventure, running, scavenger hunt, seattle, the adventures]
 ---
 <em>Update: Unfortunately, the pictures from this event have been lost. </em>
 
