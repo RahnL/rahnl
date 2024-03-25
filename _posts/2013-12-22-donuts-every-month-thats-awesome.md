@@ -12,7 +12,7 @@ My love of donuts started early, and has been a constant for my whole life. Heck
 
 This week at work, during our daily team meeting, my team got quiet and it was announced that they had something to tell me. Uh oh, I thought. What could it be because everyone is in a good mood?  There was some joking about someone winning the lottery, but since everyone was actually in the meeting, I knew that wasn't the case.
 
-<img class="alignright size-medium wp-image-1666" alt="Donut of the month 12-2013 (1)" src="http://gonesomewhere.com/wp-content/uploads/2013/12/Donut-of-the-month-12-2013-1-300x213.jpg" width="300" height="213" />
+<img class="alignright" alt="Donut of the month 12-2013 (1)" src="../assets/images/2013/12/Donut-of-the-month-12-2013-1-300x213.jpg" width="300" height="213" />
 
 <span style="line-height: 1.5em;">After a moment, I was told something like "Rahn, as a team, we all decided to get you a subscription to a 'Donut of the Month' club!" What?  WoooooooHoooooo.</span>
 
@@ -26,10 +26,10 @@ As I opened the baggy, the delicious smell of donuts wafted out.
 
 Opening the box revealed a dozen maple donuts, with some bacon bits sprinkled on the top.  They stayed fresh, and I enjoyed one immediately.  I decided I'd take one for the team and ate another.  They were good.
 
-<a style="text-align: center;" href="http://gonesomewhere.com/wp-content/uploads/2013/12/Donut-of-the-month-12-2013-2.jpg"><img class="size-medium wp-image-1667 aligncenter" alt="Donut of the month 12-2013 (2)" src="http://gonesomewhere.com/wp-content/uploads/2013/12/Donut-of-the-month-12-2013-2-300x249.jpg" width="300" height="249" /></a>
+<a style="text-align: center;" href="../assets/images/2013/12/Donut-of-the-month-12-2013-2.jpg"><img alt="Donut of the month 12-2013 (2)" src="../assets/images//2013/12/Donut-of-the-month-12-2013-2-300x249.jpg" width="300" height="249" /></a>
 
 The donuts are from <a href="http://lilmommasdonuts.com/">Lil Momma's Donut's</a>.  They're about an hour up the road from Atlanta.
 
 This was a great gift, and I'm looking forward to seeing what comes next time. Thanks y'all!
 
-[caption id="attachment_1687" align="aligncenter" width="300"]<a href="http://gonesomewhere.com/wp-content/uploads/2013/12/Max-enjoying-donut-and-milk.jpg"><img class="size-medium wp-image-1687" alt="Max enjoys a donut with milk." src="http://gonesomewhere.com/wp-content/uploads/2013/12/Max-enjoying-donut-and-milk-300x225.jpg" width="300" height="225" /></a> Max enjoys a donut with milk.[/caption]
+<a href="../assets/images/2013/12/Max-enjoying-donut-and-milk.jpg"><img alt="Max enjoys a donut with milk." src="../assets/images/2013/12/Max-enjoying-donut-and-milk-300x225.jpg" width="300" height="225" /></a> Max enjoys a donut with milk.
